@@ -289,7 +289,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ```bash
 # Clone and install for development
-git clone https://github.com/llm-contextkit/llm-contextkit.git
+git clone https://github.com/ajay555/llm-contextkit.git
 cd contextkit
 pip install -e ".[dev]"
 

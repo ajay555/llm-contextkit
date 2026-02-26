@@ -1,6 +1,6 @@
 [project]
 name = "llm-contextkit"
-version = "0.1.0"
+version = "0.1.1"
 description = "Composable building blocks for LLM context engineering"
 requires-python = ">=3.9"
 license = {text = "MIT"}
@@ -50,11 +50,11 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/llm-contextkit/llm-contextkit"
-Documentation = "https://github.com/llm-contextkit/llm-contextkit#readme"
-Repository = "https://github.com/llm-contextkit/llm-contextkit.git"
-Issues = "https://github.com/llm-contextkit/llm-contextkit/issues"
-Changelog = "https://github.com/llm-contextkit/llm-contextkit/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/ajay555/llm-contextkit"
+Documentation = "https://github.com/ajay555/llm-contextkit#readme"
+Repository = "https://github.com/ajay555/llm-contextkit.git"
+Issues = "https://github.com/ajay555/llm-contextkit/issues"
+Changelog = "https://github.com/ajay555/llm-contextkit/blob/main/CHANGELOG.md"
 
 [build-system]
 requires = ["hatchling"]
