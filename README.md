@@ -20,7 +20,7 @@ Every team building production GenAI applications ends up building the same cont
 
 There's no focused, well-designed library that owns this layer cleanly. LangChain gives you orchestration, vector databases give you retrieval, but nobody owns the **"context assembly and management"** layer.
 
-**ContextKit fills that gap.**
+**LLM ContextKit fills that gap.**
 
 ---
 
