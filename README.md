@@ -3,9 +3,9 @@
 **Composable building blocks for LLM context engineering.**
 
 [![PyPI version](https://badge.fury.io/py/llm-contextkit.svg)](https://badge.fury.io/py/llm-contextkit)
-[![Python versions](https://img.shields.io/pypi/pyversions/contextkit.svg)](https://pypi.org/project/llm-contextkit/)
+[![Python versions](https://img.shields.io/pypi/pyversions/llm-contextkit.svg)](https://pypi.org/project/llm-contextkit/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/llm-contextkit/llm-contextkit/actions/workflows/tests.yml/badge.svg)](https://github.com/llm-contextkit/llm-contextkit/actions)
+[![Tests](https://github.com/ajay555/llm-contextkit/actions/workflows/tests.yml/badge.svg)](https://github.com/ajay555/llm-contextkit/actions)
 
 ---
 
