@@ -67,7 +67,7 @@ mypy llm_contextkit/
 
 ### Reporting Bugs
 
-1. Check if the bug has already been reported in [Issues](https://github.com/llm-llm_contextkit/llm-llm_contextkit/issues)
+1. Check if the bug has already been reported in [Issues](https://github.com/ajay555/llm-contextkit/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce
