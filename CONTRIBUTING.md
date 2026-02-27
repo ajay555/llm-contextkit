@@ -12,8 +12,8 @@ Be respectful and inclusive. We're all here to build something useful together.
 
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/contextkit.git
-   cd contextkit
+   git clone https://github.com/YOUR_USERNAME/llm-contextkit.git
+   cd llm-contextkit
    ```
 
 2. **Create a virtual environment**
